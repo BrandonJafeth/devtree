@@ -1,0 +1,25 @@
+
+    node_modules/
+    .env
+    .DS_Store
+    npm-debug.log   
+    yarn-debug.log
+    yarn-error.log
+    package-lock.json
+    yarn.lock
+    .vscode/
+    .idea/
+    coverage/
+    dist
+    build/
+    .cache/
+    .next/
+    .nuxt/
+    .nuxt/
+    .sass-cache/
+    .cache-loader/
+    .eslintcache
+    .stylelintcache
+    .nyc_output/
+    .storybook/
+    .sapper/
